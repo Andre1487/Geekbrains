@@ -1,0 +1,4 @@
+hello
+my name is Andre
+i'm learning python
+this is my homework lesson 5
