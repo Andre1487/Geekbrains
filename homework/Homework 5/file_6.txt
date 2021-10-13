@@ -1,0 +1,3 @@
+information: 50 (hours) - 130 (hours)
+physics: 15 (hours) - 30 (hours)
+math: 100 (hours) - 50 (hours) - 90 (hours)
